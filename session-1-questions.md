@@ -3,3 +3,6 @@ It is very good platform to share your work with other world.
 
 2. How do you plan to use GitHub in your classroom?
 I will share my project code on github.
+
+3. What are the ways that help you to manage the students.
+ok
